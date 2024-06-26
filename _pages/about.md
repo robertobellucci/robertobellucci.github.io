@@ -7,4 +7,10 @@ redirect_from:
   - /about.html
 ---
 
+![Illustration of Chess game](/images/pexels-artur-roman-158558-541538.jpg){: .align-right width="300px"}
+👨🏻‍💻 I'm a PhD student at the Bonn Graduate School of Economics.
+
+📚 My research interests are in Mechanism Design and Social Choice Theory.
+    In particular, I would like to study Mechanism Design beyond quasi-linear utilities.
+    Feel free to get in touch if you like the topics and would like to have a chat about any of them!
 
