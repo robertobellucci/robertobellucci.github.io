@@ -21,7 +21,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "Immagine WhatsApp 2024-06-26 ore 18.32.31_fb2c4956.jpg"
+  avatar           : "profile pic.png"
   name             : "Roberto Bellucci"
   pronouns         : # example: "she/her"  
   bio              : "Microeconomic Theory" #"Short biography for the left-hand sidebar"
