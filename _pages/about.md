@@ -23,9 +23,10 @@ Feel free to reach out if you would like to chat about any of these topic!
 
 # Professional Experience
 
-🪙 **European Central Bank** - I was a trainee at the ECB at the Monetary Policy Directorate. I worked on Term Structure Modelling and the quantification of inflation expectation 
+🪙 **European Central Bank** - I was a trainee at the ECB at the Monetary Policy Directorate. I worked on **Term Structure Modelling** of the Euro-area, and the quantification of inflation expectations.
 
-🎨 **Art-ificial Intelligence for Museusm** - I worked as Research Assistant in the project [AI-MUSEUMs](https://www.aimuseum.art/) under the supervision of [https://sites.google.com/site/giovannimastrobuoni/](https://sites.google.com/site/giovannimastrobuoni/). 
+🎨 **Art-ificial Intelligence for Museusm** - I worked as Research Assistant in the project [AI-MUSEUMs](https://www.aimuseum.art/) under the supervision of [Giovanni Mastrobuoni](https://sites.google.com/site/giovannimastrobuoni/). I helped in managing the mobile app interface and contributed to writing the algorithm for visitor flow predictions.
+
 
 
 
