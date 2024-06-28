@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-![Illustration of Samarcanda](/images/samarcanda.png){: .align-right width="200px"}
+![Illustration of Samarcanda](/images/Samarcanda.png){: .align-right width="200px"}
 👨🏻‍💻 I'm a PhD student at the Bonn Graduate School of Economics.
 
 📚 My research interests are in Mechanism Design and Social Choice Theory.
