@@ -10,7 +10,11 @@ redirect_from:
 ![Illustration of Samarcanda](/images/Samarcanda.png){: .align-right width="200px"}
 👨🏻‍💻 I'm a PhD student at the Bonn Graduate School of Economics.
 
-📚 My research interests are in Mechanism Design and Social Choice Theory.
-    In particular, I would like to study Mechanism Design beyond quasi-linear utilities.
-    Feel free to get in touch if you like the topics and would like to have a chat about any of them!
+📚 Previously,  was a master's student in Economics at the University of Turin and an [Allievo at Collegio Carlo Alberto](https://www.carloalberto.org/education/allievi-honors-program/).
+
+🔬 My research interests are in Micoreconomic theory. In particular:
+*  **Mechanism Design** - Robust Mechanism Design and Public Goods
+*  **Social Choice** - Utilitarianism and Harsanyi theorems
+ 
+    
 
