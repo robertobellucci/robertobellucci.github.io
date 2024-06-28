@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-![Illustration of Chess game](/images/pexels-artur-roman-158558-541538.jpg){: .align-right width="200px"}
+#![Illustration of Chess game](/images/pexels-artur-roman-158558-541538.jpg){: .align-right width="200px"}
 👨🏻‍💻 I'm a PhD student at the Bonn Graduate School of Economics.
 
 📚 My research interests are in Mechanism Design and Social Choice Theory.
