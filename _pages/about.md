@@ -11,7 +11,7 @@ redirect_from:
 
 📚 I was born in the beautiful city of Genoa, but I studied Economics at the University of Turin and as an Allievo at [Collegio Carlo Alberto](https://www.carloalberto.org/education/allievi-honors-program/).
 
-🔬 I am mainly interested in **Microeconomic Theory**. In particular:
+🔬 I am mostly interested in **Microeconomic Theory**. In particular:
 * Social Choice Theory and Utilitarianism
 * Robust Mechansim Design
 * Epistemic Game Theory
