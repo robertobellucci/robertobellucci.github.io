@@ -28,7 +28,7 @@ Feel free to reach out if you would like to chat about any of these topic!
 🎨 **Art-ificial Intelligence for Museusm** - I worked as Research Assistant in the project [AI-MUSEUMs](https://www.aimuseum.art/) under the supervision of [Giovanni Mastrobuoni](https://sites.google.com/site/giovannimastrobuoni/). I helped in managing the mobile app interface and contributed to writing the algorithm for visitor flow predictions.
 
 
-![Illustration of Samarcanda](/images/SamarcandaHorizontal.png){: .align-right width="400px"}
+![Illustration of Samarcanda](/images/SamarcandaHorizontal.png){: .align-right width="800px"}
 
 
 
