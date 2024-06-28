@@ -16,7 +16,7 @@ After that, I was a master's student in Economics at the University of Turin and
 🔬 I am mainly interested in **Microeconomic Theory**. In my final thesis I tried to build a new version of the famous [Harsanyi Theorem](https://www.jstor.org/stable/1827128) where people do not know the correct way to compare individual utilities.
 Then, I showed that if people update their moral views in a naive way (as in [De Groot](https://www.jstor.org/stable/2285509)) they will achieve a **moral consensus**.
 
-Besides Social Choice, I also like to read of **Epistemic Game Theory** and **Robust Mechanism Design**.
+🎲 Besides Social Choice, I also like to read of **Epistemic Game Theory** and **Robust Mechanism Design**.
 Feel free to reach out if you would like to chat about any of these topic!
 
 🦔 In my free time I read a lot and occasionally I run (a couple) of miles. I am a huge fan of anything related to **Central Asia** and **One Piece**.
