@@ -21,7 +21,7 @@ repository               : "robertobellucci/robertobellucci.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profileSam.png"
+  avatar           : "profileSam.jpg"
   name             : "Roberto Bellucci"
   pronouns         : # example: "she/her"  
   bio              : "Microeconomic Theory" #"Short biography for the left-hand sidebar"
