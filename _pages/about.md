@@ -21,6 +21,15 @@ Feel free to reach out if you would like to chat about any of these topic!
 
 🦔 In my free time I read a lot and occasionally I run (a couple) of miles. I am a huge fan of anything related to **Central Asia** and **One Piece**.
 
+# Professional Experience
+
+🪙 **European Central Bank** - I was a trainee at the ECB at the Monetary Policy Directorate. I worked on Term Structure Modelling and the quantification of inflation expectation 
+
+🎨 **Art-ificial Intelligence for Museusm** - I worked as Research Assistant in the project [AI-MUSEUMs](https://www.aimuseum.art/) under the supervision of [https://sites.google.com/site/giovannimastrobuoni/](https://sites.google.com/site/giovannimastrobuoni/). 
+
+
+
+
 
 
  
