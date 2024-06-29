@@ -12,9 +12,9 @@ redirect_from:
 📚 I am from Genoa, but I studied Economics at the University of Turin and, as an Allievo, at [Collegio Carlo Alberto](https://www.carloalberto.org/education/allievi-honors-program/).
 
 🔬 I am mostly interested in **Microeconomic Theory**. In particular:
-* Social Choice Theory and Utilitarianism
-* Robust Mechansim Design
-* Epistemic Game Theory
+* Mechanism Design
+* Game Theory
+* Social Choice
 
 🦔 Feel free to reach out if you would like to chat about any of these topic! In my free time I also read a lot of novels and history books. I am a huge fan of anything related to **Central Asia** and **One Piece**.
 
