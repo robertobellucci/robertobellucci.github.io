@@ -18,13 +18,13 @@ redirect_from:
 
 🦔 Feel free to reach out if you would like to chat about any of these topic! In my free time I also read a lot of novels and history books. I am a huge fan of anything related to **Central Asia** and **One Piece**.
 
-![Illustration of Samarcanda](/images/SamarcandaHorizontal.png){: .align-right width="800px"}
-Samarkand 2024.
-
 # Professional Experience
 
 🪙 **European Central Bank** - I was a trainee at the ECB at the Monetary Policy Directorate. I worked on **Term Structure Modelling** of the Euro-area, and the quantification of inflation expectations.
 
 🎨 **Art-ificial Intelligence for Museusm** - I worked as Research Assistant in the project [AI-MUSEUMs](https://www.aimuseum.art/) under the supervision of [Giovanni Mastrobuoni](https://sites.google.com/site/giovannimastrobuoni/). I helped in managing the mobile app interface and contributed to writing the algorithm for visitor flow predictions.
+
+![Illustration of Samarcanda](/images/SamarcandaHorizontal.png){: .align-right width="800px"}
+Samarkand 2024.
     
 
