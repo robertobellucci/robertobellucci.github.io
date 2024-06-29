@@ -1,10 +1,10 @@
 # main links links
 main:
   - title: "Research"
-    url: /portfolio/
+    url: /research/
 
   - title: "CV"
-    url: /files/CV nuovissimo.pdf
+    url: /files/Roberto Bellucci CV.pdf
 
   #- title: "Teaching"
   #  url: /teaching/    
