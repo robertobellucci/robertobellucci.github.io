@@ -22,7 +22,7 @@ repository               : "robertobellucci/robertobellucci.github.io"
 author:
   # Biographic information
   avatar           : "ProfileSquare.png"
-  name             : "Roberto Bellucci"
+  name             : #"Roberto Bellucci"
   pronouns         : # example: "she/her"  
   bio              : #"PhD student at the Bonn Graduate School of Economics" #"Short biography for the left-hand sidebar"
   location         : #"Bonn, Germany"
