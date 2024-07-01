@@ -7,6 +7,10 @@ redirect_from:
   - /about.html
 ---
 
+body {
+ background-color: #FFEBEE
+}
+
 👨🏻‍💻 I'm a PhD student at the [Bonn Graduate School of Economics](https://www.econ.uni-bonn.de/bgse/en/doctoral-program).
 
 📚 I am from Genoa, but I studied Economics at the University of Turin and, as an Allievo, at [Collegio Carlo Alberto](https://www.carloalberto.org/education/allievi-honors-program/).
