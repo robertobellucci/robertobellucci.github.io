@@ -21,11 +21,11 @@ repository               : "robertobellucci/robertobellucci.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "ProfileSamarcanda2.png"
+  avatar           : "ProfileSquare.png"
   name             : "Roberto Bellucci"
   pronouns         : # example: "she/her"  
-  bio              : "PhD student at the Bonn Graduate School of Economics" #"Short biography for the left-hand sidebar"
-  location         : "Bonn, Germany"
+  bio              : #"PhD student at the Bonn Graduate School of Economics" #"Short biography for the left-hand sidebar"
+  location         : #"Bonn, Germany"
   employer         : #"University of Bonn"
   uri              : # URL
   email            : #"roberto.bellucci149@gmail.com" 
