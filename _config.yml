@@ -83,13 +83,13 @@ analytics:
 author:
 # name             : "Roberto Bellucci"
  avatar           : "profileSquare.png"
- bio              : "PhD student at BGSE"
- location         : "Bonn, Germany"
+# bio              : "PhD student at BGSE"
+# location         : "Bonn, Germany"
   #employer          : "University of Bonn"
 #  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
 #  googlescholar    : "http://yourfullgooglescholarurl.com"
  # email            : "roberto.bellucci@carloalberto.org"
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+#  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
   codepen          :
