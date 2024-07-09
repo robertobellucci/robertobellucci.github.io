@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : 'Roberto Bellucci'
+title                    : "Roberto's Homepage"
 title_separator          : "-"
 name                     : &name "Roberto's Homepage"
 description              : &description "personal description"
