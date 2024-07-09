@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: Filippo Fiocchi"
+title: "Roberto Bellucci"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,19 +8,16 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. student in Statistics at Cornell University, I started last fall.
+I am a Ph.D. student at the [Bonn Graduate School of Economics](https://www.econ.uni-bonn.de/bgse/en/doctoral-program).
 
 
-Previously, I was a master's student in Mathematics, curriculum 'Stochastics and Data science' at the University of Turin and a [Senior Allievo at Collegio Carlo Alberto](https://www.carloalberto.org/education/allievi-honors-program/), where I was supervised by prof [Stefano Favaro](http://sites.carloalberto.org/favaro/). My master thesis was about *Bayesian Nonparametric cardinality estimation from Sketched Data*. 
+Previously, I studied Economics at the University of Turin, and I had the privilege to be an [Allievo](https://www.carloalberto.org/education/allievi-honors-program/overview/) at Collegio Carlo Alberto. My master thesis was about Social Choice. I studied some issues on *utilitarianism when people are uncertian about how to compare utilities, and when utilities are not even fully comparable*. 
 
-I obtained my B.sc. in Statistics at the University of Bologna, where I was supervised by [Christian Hennig](https://scholar.google.com/citations?user=ZG9XA4IAAAAJ&hl=en). Here I worked on [quantile-based clustering](https://projecteuclid.org/journals/electronic-journal-of-statistics/volume-13/issue-2/Quantile-based-clustering/10.1214/19-EJS1640.full), exploring new approaches to estimate the 'true' number of clusters.
-
-
-Currently, I am working on Causal Discovery and  I'm interested in any other Causal-related topic! Feel free to reach out if you want to chat about any of them!
-
-In a previous life, I used to be a farmer, I completed an agricultural high school and worked as a farmer every summer.
+At the moment, I am having fun studying Mechanism Design!
 
 # Research Interest:
-*  **Causal Inference** 
-* **Statistical Learning Theory and Decision-Making** 
-* **Bayesian Nonparametric Statistics** 
+* **(Robust) Mechanism Design** 
+* **Social Choice - Utilitarianism** 
+* **Incomplete Information Games**
+
+Feel free to reach me at `roberto.bellucci@carloalberto.org` if you would like to have a chat about any of these!!
