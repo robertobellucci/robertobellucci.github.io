@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "Roberto Bellucci "
   avatar           : "profileSquare.png"
-  bio              : "Ph.D. student at BGSE"
+  bio              : #"Ph.D. student at BGSE"
   location         : "Bonn, Germany"
-  employer         : #"Cornell University"
+  employer         : "University of Bonn"
 #  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
 #  googlescholar    : "http://yourfullgooglescholarurl.com"
   email            : #"ff257@cornell.edu"
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : #"filippo-fiocchi-a88373175/"
+  linkedin         : "roberto-bellucci-275b2518b/"
 #  orcid            : "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
