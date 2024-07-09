@@ -22,4 +22,4 @@ At the moment, I am having fun studying some Mechanism Design!
 * **Social Choice - Utilitarianism**,
 * **Incomplete Information Games**.
 
-Feel free to reach me at `roberto.bellucci@carloalberto.org` if you would like to have a chat about any of these topics!
+If you would like to have a chat about any of these topics, feel free to reach me at `roberto.bellucci@carloalberto.org`!
