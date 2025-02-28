@@ -8,6 +8,7 @@ redirect_from:
   - /about.html
 ---
 
+
 I am a PhD student at the [Bonn Graduate School of Economics](https://www.econ.uni-bonn.de/bgse/en/doctoral-program). I am interested in Microeconomic Theory.
 
 You can find my CV [here](https://robertobellucci.github.io/files/RobertoCV.pdf).
