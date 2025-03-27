@@ -19,7 +19,7 @@ Previously, I studied Economics at the University of Turin, and I also had the p
 At the moment, I am having fun studying some Mechanism Design!
 
 # **Research interests**
-* **(Robust) Mechanism Design**,
+* **Mechanism Design**,
 * **Social Choice - Utilitarianism**,
 * **Incomplete Information Games**.
 
